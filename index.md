@@ -12,11 +12,11 @@ hydrological data analysis.
 
 
 ## Projects
-TBE
+Fairbanks, Alaska Yearly Max Temperature Trend Analysis (Projects/max-temp-over-time-fairbanks-AK.html)
 
 ## Contact
 
 - Email: griegodc@gmail.com
 - LinkedIn: (https://github.com/NobodyLivesHere)
-- GitHub: )https://github.com/NobodyLivesHere)
+- GitHub: (https://github.com/NobodyLivesHere)
 
