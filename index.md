@@ -12,7 +12,7 @@ hydrological data analysis.
 
 
 ## Projects
-Fairbanks, Alaska Yearly Max Temperature Trend Analysis (Projects/max-temp-over-time-fairbanks-AK.html)
+Fairbanks, Alaska Yearly Max Temperature Trend Analysis (/Projects/max-temp-over-time-fairbanks-AK.html)
 
 ## Contact
 
