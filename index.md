@@ -20,7 +20,7 @@ hydrological data analysis.
 
 [Vector Analysis for Wildfire Size and Incident Rates Between New Mexico Climate Zones](/Projects/Climatezone-wildfire-vector-analysis.html)
 
-[Analyzing Socioeconomic Factors Influencing Greenspace in Albuquerque, New Mexico](
+[Analyzing Socioeconomic Factors Influencing Greenspace in Albuquerque, New Mexico](Projects\abq-ndvi.html)
 
 ## Contact
 
