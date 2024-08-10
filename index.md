@@ -24,6 +24,8 @@ hydrological data analysis.
 
 [Project TreeBeard  - A Collabrative Open Source Project to Quantify Tree Spacing in Froest Lands](/Projects/treebeard.html)
 
+[Project Treebeard Cont'd - Integrating LiDAR and K-means Canopy Analysis in a QGIS plugin](Projects/treebeard-plugin.html)
+
 ## Contact
 
 - Email: griegodc@gmail.com
